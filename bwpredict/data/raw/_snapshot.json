@@ -1,0 +1,1 @@
+{"fetched_at_utc": "2026-10-09T16:20:00", "source": "Blockworks MCP timeseries_data", "note": "Daily bars are UTC [T, T+1d); a bar is complete once T+1d <= fetched_at_utc."}
